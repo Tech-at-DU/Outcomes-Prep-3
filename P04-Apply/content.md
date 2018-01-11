@@ -14,6 +14,7 @@ But here are some things to consider...
 
 - Apply to match and fallbacks first. This way, you'll get experience interviewing with companies who are not your top pick. By applying to and interviewing at these companies first, you'll have even more practice for when you apply to your top picks.
 - Apply to meet application deadlines, if they are listed.
+- Always attach your cover letter and resume if you are applying via email.
 
 You may also want to reach out to employees at your top choices companies *before* you apply. This way, you can learn more about their company culture and mention your conversation in your cover letter. LinkedIn is a great tool to connect with company employees both before and after you apply.
 

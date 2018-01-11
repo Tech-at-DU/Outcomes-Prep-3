@@ -15,7 +15,7 @@ Similarly, by keeping track of our applications – where we apply, when, dates 
 
 Let's level up our contact management skills.
 
-##Contact Management System (CMS)
+## Contact Management System (CMS)
 
 A contact mangement system (CMS) is a database to keep track of all important information about a contact. People and companies set up CMS's to:
 
