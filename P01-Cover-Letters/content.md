@@ -1,7 +1,5 @@
----
-title: "Cover Letters"
-slug: cover-letters
----
+# Cover Letters
+
 Let's start with a bold statement
 
 **Your cover letter is not about you**
@@ -52,7 +50,7 @@ Exercise:
 1. Write a brief paragraph example of how you've successfully used the technologies and languages to build apps, trouble shoot problems and more.
 
 # Team FIT: demonstrate your experience collaborating on a team
-At Make School you've gained valuable experience working on a team with other engineers. You've been exposed to SCRUM planning, agile project management and used Github, Trello, and other professional tools that most engineers only experience in the professional world. This experience will give you a leg up with recruiters.
+At ACS you've gained valuable experience working on a team with other engineers. You've been exposed to SCRUM planning, agile project management and used Github, Trello, and other professional tools that most engineers only experience in the professional world. This experience will give you a leg up with recruiters.
 
 For these reasons, be sure to reference your experience working in teams and your desire to contribute to the company's foundation of work. When doing so, it's always smart to demonstrate a growth mindset, and willingness to learn's from the team's seasoned engineers. This will show the recruiters that you are an effective team player.
 
