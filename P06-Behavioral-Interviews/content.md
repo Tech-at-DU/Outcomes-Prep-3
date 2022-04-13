@@ -1,28 +1,25 @@
----
-title: "Behavioral Interviews"
-slug: behavioral-interviews
+# Behavioral Interviews
+
 ---
 
 Congrats! At this point you are interviewing with companies.
 
 
 ## Behavioral Interview Overview
-Watch this video
 
-[video - slides]
+Read [this summary of behavioral interviews](https://docs.google.com/document/d/1Yv_JcAQ6StEFuGW0_gz7teworGMPVHtKNwoGtmMEXnU/edit)
 
-Here are common questions that employers ask, and what they are looking for
+Check out [these slides](https://docs.google.com/presentation/d/1cWFcdoPDqlZgkFuipYlyh_3d18Kv4e1NFTQOn58Yy2I/edit#slide=id.p31) for additional tips.
 
 ## Question planning
-
-chart from cracking the coding interview [page 23]
+Plan your answers to common questions [using this worksheet].
 
 ## Question practice
 
-do 5 interviews with peers
+Do 5 practice interviews with peers.
 
-Here's a rubric
+[Here's a rubric](https://docs.google.com/document/d/19X6NAO7M8IqGzBUP3ca3CmwCtY4WbkoyS-olrDRpwqw/edit#heading=h.lnxbz9)
 
 
 ## Stretch challenge
-watch body language video
+[Watch this body language tips for interviews video](https://www.youtube.com/watch?v=ZwX9L2NC4iY)
