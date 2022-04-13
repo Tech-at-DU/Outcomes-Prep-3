@@ -5,9 +5,9 @@ slug: negotiation
 
 ## You should always negotiate your salary!
 
-Read [this guide](https://docs.google.com/document/d/12oqw1tXTSw5FJduDT8Q46WYW7dGp5Dp39QKK-xuYGR4/edit#) to see why and also to get context on the following:
+Read [this guide](https://docs.google.com/document/u/2/d/1az3FTx-qF8qSgljRMy-iv_bYL9n2PXqiLS2i4KhCvcQ/edit#heading=h.a3sjk9ojs0kf) to see why and also to get context on the following:
 
-While reading, answer this questions and submit to ????????
+While reading, answer this questions:
 
 * Which of the listed common concerns do you resonate with? Why?
 * Why must an offer be sent in writing to be "official"
